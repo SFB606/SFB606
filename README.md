@@ -42,4 +42,5 @@
 <h3 align="center">Connect With Me</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in//"><img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg">‎ ‎ ‎ </a>
+    <a href="mailto:fajrjauharkk@gmail"><img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Gmail_white.svg">‎</a>
 </div>
