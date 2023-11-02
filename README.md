@@ -24,7 +24,7 @@
   <h2> <strong> Actively Learning </strong></h2>
   <img src="https://skillicons.dev/icons?i=py,html,css" alt="skills actively learning logos"> <br><br><br><br>
   <h2> <strong> Plan to Learn </strong></h2><br>
-  <img src="https://skillicons.dev/icons?i=js,flutter," alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=js,flutter,cpp" alt="skills planning to learn logos">
 </div>
 <h2></h2>
 <br>
