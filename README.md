@@ -6,8 +6,6 @@
 </p> <br>
 
 <h1 align="center">Passionate Pythonista🐍</h1>
-
-* 🎓 I’m currently learning Django!
   
 * 🏫 College Student
 
