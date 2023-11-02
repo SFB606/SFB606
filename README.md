@@ -1,12 +1,9 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Salih,+Welcome+to+my+Profile!;Python+Developer%7B%2F%7D;Always+Learning+New+Things!" align="middle" alt="Hey, I'm Salih Welcome to my Profile!">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Fajr,+Welcome+to+my+Profile!;Python+Developer%7B%2F%7D;Always+Learning+New+Things!" align="middle" alt="Hey, I'm Salih Welcome to my Profile!">
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=salih101&color=blueviolet&style=flat&label=PROFILE+VIEWS" alt="profile view counter">
+    <img src="https://komarev.com/ghpvc/?username=SFB606&color=blueviolet&style=flat&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
-
-<a href="https://app.daily.dev/salih101"><img align='right' src="https://api.daily.dev/devcards/4b9ffe43e6ec468ea4a8c7c81e42aca9.png?r=c2b" width="400" alt="salih101's Dev Card"/></a>
-
 
 <h1 align="center">Passionate Pythonista🐍</h1>
 
@@ -27,19 +24,19 @@
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=py,django,dotnet,figma" alt="skills actively learning logos"> <br><br><br><br>
+  <img src="https://skillicons.dev/icons?i=py,html,css" alt="skills actively learning logos"> <br><br><br><br>
   <h2> <strong> Plan to Learn </strong></h2><br>
-  <img src="https://skillicons.dev/icons?i=aws,bash,linux,flutter" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=js,flutter," alt="skills planning to learn logos">
 </div>
 <h2></h2>
 <br>
 <h2 align="center"><strong> Github Statics </strong></h2><br>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salih101&show_icons=true&theme=holi&hide_border=true&bg_color=0D1117">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salih101&theme=holi&bg_color=0D1117&layout=compact&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SFB606&show_icons=true&theme=holi&hide_border=true&bg_color=0D1117">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFB606&theme=holi&bg_color=0D1117&layout=compact&hide_border=true">
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salih101&bg_color=0D1117&hide_border=true&line=5293CB&color=D6E7FF">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SFB606&bg_color=0D1117&hide_border=true&line=5293CB&color=D6E7FF">
 <img src="assests/borderseperator.gif">
 
 
